@@ -1,0 +1,6 @@
+{
+	"properties":[
+		{ "Name": "IMG_5054.JPG", "Date": "2022-11-30","ID": "pic_0001","Comment":"戸越公園の駅から歩いて5分ぐらいのところに住んでいたんですけれども，さらにそこから5分ぐらい歩いたところのローソンの隣にある銭湯によく行っていたんですよね。<br>で，よく覚えているのが，えーっとたしかアフリカに行く直前に私の家でメンバーが泊まってですね，でもちっちゃな部屋なんだよね。","image_path":"../temp/pic/pic.jpg", "voice_path":"../temp/audio/voice_sample.mp3","doc_path":"../temp/doc/D_5054.txt","page_path":"../html/page1.html","pic_title":"戸越の銭湯", "voice_name":"三島啓雄", "doc_title": "戸越の銭湯の深い浴槽", "ivent_title":"立正大学文化祭参加者への聞き取り調査"},
+		{ "Name": "IMG_5055.JPG","Date": "2022-12-05","ID": "pic_0002","Comment":"ここにテキスト書き起こし文章が入る","image_path":"../temp/pic/IMG_5055.JPG", "voice_path":"../temp/audio/V_5055.mp3","doc_path":"../temp/doc/D_5055.txt","page_path":"../html/page2.html","pic_title":"戸越公園駅前", "voice_name":"三島啓雄", "doc_title":"短いプラットフォーム","ivent_title":"立正大学文化祭参加者への聞き取り調査"}
+	] 
+}

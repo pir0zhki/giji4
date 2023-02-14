@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+
+.title{
+    font-size:  40px;
+}
+
+.content {
+    padding: 0 30px;
+    text-align: center;
+}
+#result{
+    /*padding:1em;*/
+    background-color:#008080;
+    color:whitesmoke;
+}
+
+html, body{
+    height: 100%;
+ }
+
+ img{
+    width:50%;
+ }
+ 
+ .center>div{/*map*/
+    display: flex;
+    width: 50%;
+ }
+
+ .center{/*figureとmap*/
+    display: flex;/*横並び*/
+    align-items: stretch;/*高さ揃える*/
+    
+ }
+
+/*figcaptionを使うと高さがそろわない*/
+ 
